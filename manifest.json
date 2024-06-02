@@ -1,7 +1,7 @@
 {
     "name": "Scorpiomusic",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/CrownScorpion?tab=projects",
+    "website_url": "https://github.com/CrownScorpion/Scorpiomusic-content-warning-mod-",
     "description": "Some songs for me and my friends feel free to use it as well.",
     "dependencies": [
 		"hyydsz-Boombox-1.1.5",
