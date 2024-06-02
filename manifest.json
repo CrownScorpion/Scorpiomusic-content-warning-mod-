@@ -1,0 +1,11 @@
+{
+    "name": "Scorpiomusic",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/CrownScorpion?tab=projects",
+    "description": "Some songs for me and my friends feel free to use it as well.",
+    "dependencies": [
+		"hyydsz-Boombox-1.1.5",
+		"hyydsz-ShopUtils-1.0.8",
+		"LimeSkillZ-BoomboxMusicShare-2.2.0"
+    ]
+}
