@@ -42,7 +42,7 @@ Whisker Twister - LIT killah
 
 The songs included in this mod are the property of their respective owners. All rights are reserved by the original copyright holders.
 
-## If you want any songs added you can post them on github https://github.com/CrownScorpion?tab=projects and I will take a look.
+## If you want any songs added you can post them on github https://github.com/CrownScorpion/Scorpiomusic-content-warning-mod- and I will take a look.
 ***NOT ALL SONGS WILL BE ACCEPTED*** it all depends on the song and if I find it ok.
 
 if any issues are found please post them on the github thank you.
