@@ -1,11 +1,11 @@
 {
     "name": "Scorpiomusic",
-    "version_number": "1.0.0",
+    "version_number": "2.1.0",
     "website_url": "https://github.com/CrownScorpion/Scorpiomusic-content-warning-mod-",
-    "description": "Some songs for me and my friends feel free to use it as well.",
+    "description": "(WARNING big modpack.) The only song pack you will ever need as it has songs for everyone :) WITH MORE TO COME!!! ",
     "dependencies": [
-		"hyydsz-Boombox-1.1.5",
-		"hyydsz-ShopUtils-1.0.8",
-		"LimeSkillZ-BoomboxMusicShare-2.2.0"
+        "hyydsz-Boombox-1.1.5",
+        "hyydsz-ShopUtils-1.0.8",
+        "LimeSkillZ-BoomboxMusicShare-2.2.0"
     ]
 }
